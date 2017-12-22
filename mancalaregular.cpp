@@ -1,4 +1,4 @@
-// Mancala with PickupLite
+// Mancala Regular
 // designed for eclipse
 //Rules: If your piece lands on another of your holes and that hole is empty, you take your pieces and all pieces above into your own mancala.
 //Otherwise, the rules are mostly regular intuitive. Please report any bugs that may exist.
@@ -392,7 +392,3 @@ int main() {
 		}
 	}
 }
-
-
-
-
