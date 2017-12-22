@@ -294,8 +294,8 @@ void move(int current, int turn, int marbles_in_hand, bool first) {
 
 int main() {
 	for (int i = 0; i < 6; i++) {
-		top[i + 1] = 30;
-		bottom[i + 1] = 30;
+		top[i + 1] = 4;
+		bottom[i + 1] = 4;
 	}
 	int turn;
 	cout << "Mancala (with PickupLite)" << endl;
