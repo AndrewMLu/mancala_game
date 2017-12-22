@@ -1,7 +1,7 @@
 // Mancala Regular
-// designed for eclipse
-//Rules: If your piece lands on another of your holes and that hole is empty, you take your pieces and all pieces above into your own mancala.
-//Otherwise, the rules are mostly regular intuitive. Please report any bugs that may exist.
+// Designed for eclipse
+// Rules: If your piece lands on another of your holes and that hole is empty, you take your pieces and all pieces above into your own mancala.
+// Otherwise, the rules are mostly regular intuitive. Please report any bugs that may exist.
 
 #include <iostream>
 using namespace std;
@@ -282,7 +282,7 @@ int main() {
 	}
 	int turn;
 	cout << "Mancala (Regular)" << endl;
-	cout << "Player one's mancala (store)  is on the left and player two's mancala is to the left." << endl;
+	cout << "Player one's mancala (store) is on the left and player two's mancala is to the left." << endl;
 	cout << "Please read the (modified) rules (at beginning of code) before playing." << endl;
 	do {
 		cout << "Who is first player? Top (0) or bottom (1)?" << endl;
