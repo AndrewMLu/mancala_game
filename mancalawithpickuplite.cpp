@@ -1,8 +1,8 @@
 // Mancala with PickupLite
-// designed for eclipse
-//Rules: If you final piece lands on another of your holes (not your oppenents) and that hole has pieces, then you pick up all the pieces and continue.
-//Another rule: If your piece lands on another of your holes and that hole is empty, you take your pieces and all pieces above into your own mancala.
-//Otherwise, the rules are mostly regular intuitive. Please report any bugs that may exist.
+// Designed for eclipse
+// Rules: If you final piece lands on another of your holes (not your oppenents) and that hole has pieces, then you pick up all the pieces and continue.
+// Another rule: If your piece lands on another of your holes and that hole is empty, you take your pieces and all pieces above into your own mancala.
+// Otherwise, the rules are mostly regular intuitive. Please report any bugs that may exist.
 
 #include <iostream>
 using namespace std;
@@ -409,5 +409,3 @@ int main() {
 		}
 	}
 }
-
-
